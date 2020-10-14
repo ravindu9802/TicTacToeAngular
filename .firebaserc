@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictactoeangular-71d54": {
+      "hosting": {
+        "TicTakToe": [
+          "tictactoeangular-71d54"
+        ]
+      }
+    }
+  }
+}
