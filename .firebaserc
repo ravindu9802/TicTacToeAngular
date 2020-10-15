@@ -1,9 +1,16 @@
 {
   "targets": {
+    "angulartictactoe-2c46b": {
+      "hosting": {
+        "TicTakToe": [
+          "angulartictactoe-2c46b"
+        ]
+      }
+    },
     "tictactoeangular-71d54": {
       "hosting": {
         "TicTakToe": [
-          "tictactoeangular-71d54"
+          "angulartictactoe-2c46b"
         ]
       }
     }
